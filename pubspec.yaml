@@ -1,0 +1,103 @@
+name: mighty_news
+description: A new Flutter application.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #Basic
+  nb_utils: ^6.0.6
+  google_fonts: ^6.1.0
+  flutter_vector_icons: ^2.0.0
+
+  #UI
+  fading_edge_scrollview: ^3.0.0
+  shimmer: ^3.0.0
+  photo_view: ^0.14.0
+  story_view: ^0.16.5
+  rive: ^0.12.0
+  clippy_flutter: 2.0.0-nullsafety.1
+  video_player: ^2.7.2
+
+  #Network
+  http: ^1.1.0
+  #intl: ^0.18.1
+  intl: ^0.19.0
+  html: ^0.15.4
+  flutter_html: ^2.2.1
+  webview_flutter: ^4.4.1
+
+  #State
+  mobx: ^2.2.1
+  flutter_mobx: ^2.1.0+1
+  package_info: ^2.0.2
+
+  #One Signal
+  onesignal_flutter: ^5.0.3
+
+  #Firebase
+  firebase_core: ^2.20.0
+  firebase_auth: ^4.12.0
+  firebase_remote_config: ^4.3.2
+  firebase_crashlytics: ^3.4.2
+
+  #AdMob
+  #  google_mobile_ads: ^3.0.0
+  google_mobile_ads: ^2.4.0
+  facebook_audience_network: ^1.0.1
+
+  #Social Login
+  google_sign_in: ^6.1.5
+  otp_text_field: ^1.1.3
+  country_code_picker: ^3.0.0
+  the_apple_sign_in: ^1.1.1
+
+  #Other
+  cached_network_image: ^3.3.0
+  geolocator: ^10.1.0
+  flutter_tts: ^3.8.3
+  image_picker: ^1.0.4
+  share: ^2.0.4
+  url_launcher: ^6.2.0
+
+  flutter_svg : ^0.22.0
+  connectivity_plus: ^5.0.1
+  dbus: ^0.7.8
+  ffi: ^2.1.0
+  xml: ^6.4.2
+
+  flutter_localizations:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.6
+  mobx_codegen: ^2.4.0
+  #flutter packages pub run build_runner build --delete-conflicting-outputs
+
+dependency_overrides:
+  xml: ^6.2.2
+  flutter_html: ^2.2.1
+  webview_flutter: ^2.0.4
+  nb_utils: ^6.0.6
+  flutter_math_fork: ^0.7.1
+  flutter_svg: ^1.0.0
+  flutter_layout_grid: ^2.0.5
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/flags/
+    - lang/
+    - assets/rive/

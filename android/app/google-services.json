@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "1027112399447",
+    "project_id": "mighty-news-8e661",
+    "storage_bucket": "mighty-news-8e661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027112399447:android:f79fea65a5800e86132912",
+        "android_client_info": {
+          "package_name": "app.mighty.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027112399447-2g8lri44ol3umn8h8o1cae7uvo7a81th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "de206aeb88cf8e122b81e1c116ab0a7a11351214"
+          }
+        },
+        {
+          "client_id": "1027112399447-8uaab3pj6hg3emblq7d4g8h9m4bgn2go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "d7a05def28e5f1b16d3e40f7706d03339611c107"
+          }
+        },
+        {
+          "client_id": "1027112399447-9vhk22leuj3jqohg3eg9am4sro83voop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "3efaa63a5188e901da4201ca1ee8d9af74b5d97c"
+          }
+        },
+        {
+          "client_id": "1027112399447-bs73a2n4ft4v2543r07dgcm4ktkgsn6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "ecd7f73fd4a55c405898c889430891300446cade"
+          }
+        },
+        {
+          "client_id": "1027112399447-li5ue0hitq6tm65dasp2c99altpcn9mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "16be4ce7025158dc6a56c1f30922d470af4f198c"
+          }
+        },
+        {
+          "client_id": "1027112399447-tmh8q6hut8takhv0c710cagpgpr3ghdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "9ca3f2971eb2091eeddba165c7d8efee7a0a17a3"
+          }
+        },
+        {
+          "client_id": "1027112399447-vn2qnrp1govvlq0mcfbfei2k4vec6ajo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mighty.news",
+            "certificate_hash": "b9809aeaec680e8bdc282423801a9c6a9a15e1bf"
+          }
+        },
+        {
+          "client_id": "1027112399447-60ufv7oi6s8u5onr60fjrj4eitu166gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6uTeBcyLShHuAI1Xi9ifUZgw5cqlXzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027112399447-60ufv7oi6s8u5onr60fjrj4eitu166gv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027112399447-6a88d7nv8snfpaheh5fnath7seuslvj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.news"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027112399447:android:40f68bfa2124e3dc132912",
+        "android_client_info": {
+          "package_name": "com.mighty.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027112399447-0etl6dovvrlfpnv5un96bo4u3ns1qdo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "3efaa63a5188e901da4201ca1ee8d9af74b5d97c"
+          }
+        },
+        {
+          "client_id": "1027112399447-2rg3cqr9m242k4qu6ej0nvmr1oniuh3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "b9809aeaec680e8bdc282423801a9c6a9a15e1bf"
+          }
+        },
+        {
+          "client_id": "1027112399447-4ggushlv2jdu14jdmrvcid56888vhbkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "d7a05def28e5f1b16d3e40f7706d03339611c107"
+          }
+        },
+        {
+          "client_id": "1027112399447-5r6o6k2bmljpr4af4v6g17asoqu6ls38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "de206aeb88cf8e122b81e1c116ab0a7a11351214"
+          }
+        },
+        {
+          "client_id": "1027112399447-lfvssk1cfc72rh16h5604j6b0u0e2dgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "ecd7f73fd4a55c405898c889430891300446cade"
+          }
+        },
+        {
+          "client_id": "1027112399447-rcde4s1tkhl6ijifd2gv5adahtqlap6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "16be4ce7025158dc6a56c1f30922d470af4f198c"
+          }
+        },
+        {
+          "client_id": "1027112399447-ttr2ogk6qupmev28hs20vuuc8tko7a8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mighty.news",
+            "certificate_hash": "9ca3f2971eb2091eeddba165c7d8efee7a0a17a3"
+          }
+        },
+        {
+          "client_id": "1027112399447-60ufv7oi6s8u5onr60fjrj4eitu166gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6uTeBcyLShHuAI1Xi9ifUZgw5cqlXzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027112399447-60ufv7oi6s8u5onr60fjrj4eitu166gv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027112399447-6a88d7nv8snfpaheh5fnath7seuslvj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mighty.news"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1399327544318575~7586962359"
+    }
+  ],
+  "configuration_version": "1"
+}
